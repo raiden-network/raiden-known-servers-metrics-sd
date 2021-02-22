@@ -11,10 +11,16 @@ Dev Install
 - Have Poetry
 - Run `make install`
 
-Build Docker image
+Build Docker Image
 ==================
 
 - Have Poetry
 - Have Docker
 - Run `make build`
 
+Publish Docker Image
+====================
+
+- Have Poetry
+- Have Docker
+- Run `make publish`
