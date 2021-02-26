@@ -21,6 +21,9 @@ Build Docker Image
 Publish Docker Image
 ====================
 
-- Have Poetry
+Docker Hub is set up to automatically build latest `master`.
+
+Build / publish manually:
+
 - Have Docker
 - Run `make publish`
