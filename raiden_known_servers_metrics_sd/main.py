@@ -19,8 +19,8 @@ KNOWN_SERVERS_URL_BASE = (
     "https://raw.githubusercontent.com/raiden-network/raiden-service-bundle/master/known_servers/"
 )
 KNOWN_SERVERS_URLS = {
-    "development": KNOWN_SERVERS_URL_BASE + "known_servers-development-v1.2.0.json",
-    "production": KNOWN_SERVERS_URL_BASE + "known_servers-production-v1.2.0.json",
+    "development": KNOWN_SERVERS_URL_BASE + "known_servers-development-v3.0.0.json",
+    "production": KNOWN_SERVERS_URL_BASE + "known_servers-production-v3.0.0.json",
 }
 
 KNOWN_SERVERS_URL_METADATA = KNOWN_SERVERS_URL_BASE + "known_servers_metadata.json"
